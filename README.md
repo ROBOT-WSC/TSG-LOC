@@ -14,5 +14,5 @@
 
 
 ### Demo
-<video src="https://github.com/ROBOT-WSC/SGT-LLC/blob/main/demo.mp4"></video>
+https://github.com/ROBOT-WSC/SGT-LLC/blob/main/demo.mp4
 
