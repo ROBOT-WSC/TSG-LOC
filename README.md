@@ -14,5 +14,5 @@
 
 
 ### Demo
-<video src="[./demo.mp4](https://github.com/ROBOT-WSC/SGT-LLC/blob/main/demo.mp4)"></video>
+<video src="https://github.com/ROBOT-WSC/SGT-LLC/blob/main/demo.mp4"></video>
 
