@@ -14,5 +14,5 @@
 
 
 ### Demo
-<video src="[./demo.mp4]([https://www.bilibili.com/video/BV1ajtKeeE4w/?spm_id_from=333.1365.list.card_archive.click&vd_source=e74b0459c6bcd3f97efb6f783b9d9f56](https://www.bilibili.com/video/BV1ajtKeeE4w?t=11.2))"></video>
+<video src="./demo.mp4"></video>
 
